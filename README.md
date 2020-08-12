@@ -1,4 +1,4 @@
-# HOMEWORK 2 AREM (Heroku: Intérpretes, canales de comunicación y memoria)
+# HOMEWORK 2 AREP (Heroku: Intérpretes, canales de comunicación y memoria)
 
 ### Use Maven, HEROKU, GIT, Spark and GITHUB.
 
@@ -15,7 +15,7 @@ Write a program to calculate the mean and standard deviation of a set of n real 
 
 Copy the project through git clone in any direction to start working:
 ```
-git clone https://github.com/Juaco9502/Dise-o-de-conceptos-basicos---AREP
+git clone https://github.com/Juaco9502/Dise-o-de-conceptos-basicos---AREP.git
 ```
 
 ## PRE-REQUISITES
