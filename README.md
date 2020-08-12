@@ -1,6 +1,6 @@
 # HOMEWORK 2 AREM (Heroku: Intérpretes, canales de comunicación y memoria)
 
-### Use Maven,HEROKU,GIT,Spark and GITHUB.
+### Use Maven, HEROKU, GIT, Spark and GITHUB.
 
 Write a program to calculate the mean and standard deviation of a set of n real numbers (Web Page)
 
@@ -66,25 +66,25 @@ http://localhost:4567/input
 INPUT | OUTPUT
 ------------ | ------------- 
 ![1p](img/test1p.JPG) | ![1s](img/test1s.JPG)
-En esta prueba se ingresaron valores enteros| 
+Entrada con valores enteros| 
 
 ## TEST 2
 INPUT | OUTPUT
 ------------ | ------------- 
 ![2p](img/test2p.JPG) | ![2s](img/test2s.JPG)
-En esta prueba se ingresaron valores reales|
+Entrada con valores reales|
 
 ## TEST 3 
 INPUT | OUTPUT
 ------------ | ------------- 
 ![3p](img/test3p.JPG) | ![3s](img/test3s.JPG)
-En esta prueba se ingresaro un valor entero y otro real (en ese orden)|
+Entrada con valor entero y real|
 
 ## TEST 4 
 INPUT | OUTPUT
 ------------ | ------------- 
 ![4p](img/test4p.JPG) | ![4s](img/test4s.JPG)
-En esta prueba se ingresaron valor real y otro entero (en ese orden)|
+Entrada con valor real y entero|
 
 
 ## HEROKU
