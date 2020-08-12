@@ -16,8 +16,8 @@ public class Calculator {
         get("/input", (req, res) -> ("<!DOCTYPE html>"+
                                     "<html>"+
                                     "<body>"+
-                                    "<h2>Bandeja de entrada de los números:</h2>"+
-                                    "<h3>(Introduzca los números separados por un espacio y los números reales con punto ej: (160 15.0)</h2>"+
+                                    "<h2>Bandeja de entrada de los nÃºmeros:</h2>"+
+                                    "<h3>(Introduzca los nÃºmeros separados por un espacio, y escribir los nÃºmeros reales con punto)</h2>"+
                                     "<form action='/output/'>"+
                                     "<input type='text' name='data'><br>"+
                                     "<input type='submit' value='Continue'>" +
@@ -38,9 +38,9 @@ public class Calculator {
                     ("<!DOCTYPE html>"+
                         "<html>"+
                         "<body>"+
-                        "<h2>Media estadística: </h2>"+
+                        "<h2>Media EstadÃ­stica: </h2>"+
                         mean+
-                        "<h2>Desviación estandar: </h2>"+
+                        "<h2>DesviaciÃ³n EstÃ¡ndard: </h2>"+
                         op.standartDeviationCalculator(mean)+
                         "</body>"+
                         "</html>");
